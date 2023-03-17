@@ -1,0 +1,2 @@
+: 123abc constantants.txt
+echo  db_password : '123abc' 
